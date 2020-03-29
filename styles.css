@@ -1,0 +1,32 @@
+.main{
+    color: dimgray;
+    text-align: center;
+  }
+  body {
+    background-image: url("https://mcusercontent.com/b6b2c0865b03a8de9987dbb3f/images/0f39d426-2475-4f93-9a56-1045be188d6b.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  table {
+    height: 30px;
+    padding: 3rem 0;
+  }
+  td, th {
+    border: 1px solid gray;
+    background: wheat;
+    padding: 10px;
+    font-family: arial;
+  }
+  .table-tags {
+    display: inline-table;
+    float: left;
+    margin-right: 20px;
+  }
+  .form-type {
+    display: inline-table;
+    float:center
+  }
+  .code {
+    background: snow;
+  }
